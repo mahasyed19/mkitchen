@@ -1,0 +1,10 @@
+div.services{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card-img-top{
+    height: 150px;
+}
